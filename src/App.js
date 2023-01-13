@@ -1,6 +1,6 @@
-import React from 'react'
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
-import { Navbar, Sidebar, Footer } from './components'
+import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Navbar, Sidebar, Footer } from "./components";
 
 import {
   Home,
@@ -12,39 +12,29 @@ import {
   Checkout,
   PrivateRoute,
   AuthWrapper,
-} from './pages'
+} from "./pages";
 
 function App() {
   return (
     <AuthWrapper>
-      <Router>
+      <BrowserRouter>
         <Navbar />
         <Sidebar />
         <Routes>
-          <Route exact path="/">
-            <Home />
-          </Route>
-          <Route exact path="/about">
-            <About />
-          </Route>
-          <Route exact path="/cart">
-            <Cart />
-          </Route>
-          <Route exact path="/products">
-            <Products />
-          </Route>
-          <Route exact path="/products/:id" children={<SingleProduct />} />
-          <PrivateRoute exact path="/checkout">
-            <Checkout />
-          </PrivateRoute>
-          <Route exact path="*">
-            <Error />
-          </Route>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/cart" element={<Cart />} />
+          <Route path="/products" element={<Products />} />
+          {/*
+          <Route path="/products/:id" children={<SingleProduct />} />
+          <PrivateRoute path="/checkout" element={<Checkout />} />
+          */}
+          <Route path="/" element={<Error />} />
         </Routes>
         <Footer />
-      </Router>
+      </BrowserRouter>
     </AuthWrapper>
-  )
+  );
 }
 
-export default App
+export default App;
