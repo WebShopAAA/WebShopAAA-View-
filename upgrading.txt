@@ -18,3 +18,25 @@ c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ Welcome to the Emacs shell
 
 c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
 webpack compiled successfully
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm outdated
+Package                      Current   Wanted  Latest  Location                                  Depended by
+@testing-library/react        11.2.7   11.2.7  13.4.0  node_modules/@testing-library/react       WebShopAAA-View-
+@testing-library/user-event   12.8.3   12.8.3  14.4.3  node_modules/@testing-library/user-event  WebShopAAA-View-
+axios                         0.21.4   0.21.4   1.2.2  node_modules/axios                        WebShopAAA-View-
+framer-motion                 4.1.17   4.1.17   8.4.3  node_modules/framer-motion                WebShopAAA-View-
+netlify-cli                   3.39.4   3.39.4  12.7.2  node_modules/netlify-cli                  WebShopAAA-View-
+stripe                       8.222.0  8.222.0  11.6.0  node_modules/stripe                       WebShopAAA-View-
+web-vitals                     0.2.4    0.2.4   3.1.1  node_modules/web-vitals                   WebShopAAA-View-
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm add --exact axios@1.2.2
+added 2 packages, changed 1 package, and audited 3373 packages in 19s
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm outdated
+Package                      Current   Wanted  Latest  Location                                  Depended by
+@testing-library/react        11.2.7   11.2.7  13.4.0  node_modules/@testing-library/react       WebShopAAA-View-
+@testing-library/user-event   12.8.3   12.8.3  14.4.3  node_modules/@testing-library/user-event  WebShopAAA-View-
+framer-motion                 4.1.17   4.1.17   8.4.3  node_modules/framer-motion                WebShopAAA-View-
+netlify-cli                   3.39.4   3.39.4  12.7.2  node_modules/netlify-cli                  WebShopAAA-View-
+stripe                       8.222.0  8.222.0  11.6.0  node_modules/stripe                       WebShopAAA-View-
+web-vitals                     0.2.4    0.2.4   3.1.1  node_modules/web-vitals                   WebShopAAA-View-
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+Compiled with warnings.
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ 
