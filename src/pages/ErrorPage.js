@@ -1,19 +1,24 @@
-import React from 'react'
-import styled from 'styled-components'
-import { Link } from 'react-router-dom'
+import React from "react";
+import styled from "styled-components";
+import { Link, useRouteError } from "react-router-dom";
 const ErrorPage = () => {
+  const error = useRouteError();
+  console.error(error);
+
   return (
     <Wrapper className="page-100">
       <section>
-        <h1>404</h1>
-        <h3>Sorry, the page you tried cannot be found</h3>
+        <h1>Error</h1>
+        <p>
+          <i>{error.statusText || error.message}</i>
+        </p>
         <Link to="/" className="btn">
           back home
         </Link>
       </section>
     </Wrapper>
-  )
-}
+  );
+};
 
 const Wrapper = styled.main`
   background: var(--clr-primary-10);
@@ -28,6 +33,6 @@ const Wrapper = styled.main`
     text-transform: none;
     margin-bottom: 2rem;
   }
-`
+`;
 
-export default ErrorPage
+export default ErrorPage;

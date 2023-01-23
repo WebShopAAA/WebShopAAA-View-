@@ -1,9 +1,9 @@
-import React from 'react'
-import styled from 'styled-components'
-import { useFilterContext } from '../context/filter_context'
-import { getUniqueValues, formatPrice } from '../utils/helpers'
-import { FaCheck } from 'react-icons/fa'
-import { motion } from 'framer-motion'
+import React from "react";
+import styled from "styled-components";
+import { useFilterContext } from "../context/filter_context";
+import { getUniqueValues, formatPrice } from "../utils/helpers";
+import { FaCheck } from "react-icons/fa";
+import { motion } from "framer-motion";
 
 const Filters = () => {
   const {
@@ -20,11 +20,11 @@ const Filters = () => {
     updateFilters,
     clearFilters,
     all_products,
-  } = useFilterContext()
+  } = useFilterContext();
 
-  const categories = getUniqueValues(all_products, 'category')
-  const companies = getUniqueValues(all_products, 'company')
-  const colors = getUniqueValues(all_products, 'colors')
+  const categories = getUniqueValues(all_products, "category");
+  const companies = getUniqueValues(all_products, "company");
+  const colors = getUniqueValues(all_products, "colors");
 
   return (
     <Wrapper>
@@ -55,12 +55,12 @@ const Filters = () => {
                     type="button"
                     name="category"
                     className={`${
-                      category === c.toLowerCase() ? 'active' : null
+                      category === c.toLowerCase() ? "active" : null
                     }`}
                   >
                     {c}
                   </motion.button>
-                )
+                );
               })}
             </div>
           </div>
@@ -79,7 +79,7 @@ const Filters = () => {
                   <option key={index} value={c}>
                     {c}
                   </option>
-                )
+                );
               })}
             </select>
           </div>
@@ -89,7 +89,7 @@ const Filters = () => {
             <h5>colors</h5>
             <div className="colors">
               {colors.map((c, index) => {
-                if (c === 'all') {
+                if (c === "all") {
                   return (
                     <button
                       key={index}
@@ -97,12 +97,12 @@ const Filters = () => {
                       onClick={updateFilters}
                       data-color="all"
                       className={`${
-                        color === 'all' ? 'all-btn active' : 'all-btn'
+                        color === "all" ? "all-btn active" : "all-btn"
                       }`}
                     >
                       all
                     </button>
-                  )
+                  );
                 }
                 return (
                   <button
@@ -110,14 +110,14 @@ const Filters = () => {
                     name="color"
                     style={{ background: c }}
                     className={`${
-                      color === c ? 'color-btn active' : 'color-btn'
+                      color === c ? "color-btn active" : "color-btn"
                     }`}
                     data-color={c}
                     onClick={updateFilters}
                   >
                     {color === c ? <FaCheck /> : null}
                   </button>
-                )
+                );
               })}
             </div>
           </div>
@@ -154,8 +154,8 @@ const Filters = () => {
         </button>
       </div>
     </Wrapper>
-  )
-}
+  );
+};
 
 const Wrapper = styled.section`
   .form-control {
@@ -256,6 +256,6 @@ const Wrapper = styled.section`
       top: 1rem;
     }
   }
-`
+`;
 
-export default Filters
+export default Filters;

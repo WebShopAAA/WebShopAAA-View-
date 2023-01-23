@@ -60,4 +60,2700 @@ Package                      Current   Wanted  Latest  Location                 
 @testing-library/user-event   12.8.3   12.8.3  14.4.3  node_modules/@testing-library/user-event  WebShopAAA-View-
 netlify-cli                   3.39.4   3.39.4  12.7.2  node_modules/netlify-cli                  WebShopAAA-View-
 stripe                       8.222.0  8.222.0  11.6.0  node_modules/stripe                       WebShopAAA-View-
-c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ 
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm add --exact @testing-library/react@13.4.0
+added 5 packages, removed 8 packages, changed 1 package, and audited 3373 packages in 24s
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm add --exact @testing-library/user-event@14.4.3
+changed 1 package, and audited 3373 packages in 9s
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm outdated
+Package      Current   Wanted  Latest  Location                  Depended by
+netlify-cli   3.39.4   3.39.4  12.7.2  node_modules/netlify-cli  WebShopAAA-View-
+stripe       8.222.0  8.222.0  11.6.0  node_modules/stripe       WebShopAAA-View-
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ Welcome to the Emacs shell
+
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+> store@0.1.0 start
+> react-scripts start
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 8:3:   'SingleProduct' is defined but never used  no-unused-vars
+  Line 12:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 8:3:   'SingleProduct' is defined but never used  no-unused-vars
+  Line 12:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+^C^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ Welcome to the Emacs shell
+
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:5620) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:5620) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view store in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\SingleProductPage.js
+Syntax error: Identifier 'Link' has already been declared. (15:9) (15:9)
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/SingleProductPage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages\SingleProductPage.js: Identifier 'Link' has already been declared. (15:9)
+
+  13 | } from "../components";
+  14 | import styled from "styled-components";
+> 15 | import { Link } from "react-router-dom";
+     |          ^
+  16 |
+  17 | const SingleProductPage = () => {
+  18 |   const { id } = useParams();
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowScopeHandler.checkRedeclarationInScope (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1587:19)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1558:12)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1657:11)
+    at FlowParserMixin.declareNameFromIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10767:16)
+    at FlowParserMixin.checkIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10763:12)
+    at FlowParserMixin.checkLVal (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10697:12)
+    at FlowParserMixin.finishImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14571:10)
+    at FlowParserMixin.parseImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5918:17)
+    at FlowParserMixin.parseNamedImportSpecifiers (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14698:36)
+    at FlowParserMixin.parseImport (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14540:39)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13079:27)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseModuleItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12944:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:36)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseProgram (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12853:10)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12843:25)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6172:28)
+    at FlowParserMixin.parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14751:10)
+    at parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14793:38)
+    at parser (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\normalize-file.js:65:38)
+    at normalizeFile.next (<anonymous>)
+    at run (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:261:32)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+
+ERROR in [eslint] 
+src\pages\SingleProductPage.js
+  Line 15:9:  Parsing error: Identifier 'Link' has already been declared. (15:9)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 13:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 3:3:   'createBrowserRouter' is defined but never used  no-unused-vars
+  Line 4:3:   'RouterProvider' is defined but never used       no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used             no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used         no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 3:3:   'createBrowserRouter' is defined but never used  no-unused-vars
+  Line 4:3:   'RouterProvider' is defined but never used       no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used             no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used         no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 4:3:   'RouterProvider' is defined but never used   no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used         no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used     no-unused-vars
+  Line 23:7:  'router' is assigned a value but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\index.js
+Syntax error: Unexpected token, expected "," (12:24) (12:24)
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in ./src/index.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\index.js: Unexpected token, expected "," (12:24)
+
+  10 |
+  11 | ReactDOM.createRoot(document.getElementById("root")).render(
+> 12 |     console.log("hello");
+     |                         ^
+  13 |   <Auth0Provider
+  14 |     domain={process.env.REACT_APP_DOMAIN}
+  15 |     clientId={process.env.REACT_APP_CLIENTID}
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.expect (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3758:28)
+    at FlowParserMixin.parseCallExpressionArguments (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11364:14)
+    at FlowParserMixin.parseCoverCallAndAsyncArrowHead (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11290:29)
+    at FlowParserMixin.parseSubscript (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11221:19)
+    at FlowParserMixin.parseSubscript (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6137:18)
+    at FlowParserMixin.parseSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11195:19)
+    at FlowParserMixin.parseSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6103:18)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11186:17)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10856:23)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13107:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseModuleItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12944:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:36)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseProgram (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12853:10)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12843:25)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6172:28)
+    at FlowParserMixin.parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14751:10)
+    at parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14793:38)
+    at parser (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\normalize-file.js:65:38)
+    at normalizeFile.next (<anonymous>)
+    at run (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:261:32)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+
+ERROR in [eslint] 
+src\index.js
+  Line 12:24:  Parsing error: Unexpected token, expected "," (12:24)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+  Line 7:5:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:  'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 7:5:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:  'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+  Line 7:5:   'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+  Line 13:6:  'Footer' is not defined   react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 7:5:   'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+  Line 13:6:  'Footer' is not defined   react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+  Line 7:8:   'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+  Line 13:8:  'Footer' is not defined   react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 7:8:   'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+  Line 13:8:  'Footer' is not defined   react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+Syntax error: Unexpected token (2:98) (2:98)
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/HomePage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages\HomePage.js: Unexpected token (2:98)
+
+  1 | import React from "react";
+> 2 | import { Navbar, Sidebar, Footer } from "./components"; FeaturedProducts, Hero, Services, Contact } from "../components";
+    |                                                                                                   ^
+  3 |
+  4 | const HomePage = () => {
+  5 |   return (
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11579:22)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10856:23)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13107:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseModuleItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12944:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:36)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseProgram (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12853:10)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12843:25)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6172:28)
+    at FlowParserMixin.parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14751:10)
+    at parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14793:38)
+    at parser (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\normalize-file.js:65:38)
+    at normalizeFile.next (<anonymous>)
+    at run (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:261:32)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 2:98:  Parsing error: Unexpected token (2:98)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Root' is defined but never used           no-unused-vars
+  Line 9:16:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:24:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:33:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Root' is defined but never used           no-unused-vars
+  Line 9:16:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:24:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:33:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Root' is not exported from './components' (imported as 'Root').
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:16:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:24:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:33:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 12:32-36
+export 'Root' (imported as 'Root') was not found in './components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Root' is not exported from './components' (imported as 'Root').
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:16:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:24:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:33:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 12:32-36
+export 'Root' (imported as 'Root') was not found in './components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\pages\HomePage.js
+  Line 7:11:  'Navbar' is not defined   react/jsx-no-undef
+  Line 8:8:   'Sidebar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 9:10:  'Navbar' is defined but never used         no-unused-vars
+  Line 9:18:  'Sidebar' is defined but never used        no-unused-vars
+  Line 9:27:  'Footer' is defined but never used         no-unused-vars
+  Line 14:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 18:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 19:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Welcome to the Emacs shell
+
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:4260) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4260) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Failed to compile.
+
+[eslint] 
+src\components\Error.js
+Syntax error: Only one default export allowed per module. (27:0) (27:undefined)
+ERROR in ./src/components/Error.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components\Error.js: Only one default export allowed per module. (27:0)
+
+  25 | }
+  26 |
+> 27 | export default Error
+     | ^
+  28 |
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.checkDuplicateExports (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14395:14)
+    at FlowParserMixin.checkExport (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14324:14)
+    at FlowParserMixin.parseExport (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14159:12)
+    at FlowParserMixin.parseExport (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5491:24)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13084:27)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseModuleItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12944:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:36)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseProgram (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12853:10)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12843:25)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6172:28)
+    at FlowParserMixin.parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14751:10)
+    at parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14793:38)
+    at parser (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\normalize-file.js:65:38)
+    at normalizeFile.next (<anonymous>)
+    at run (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:261:32)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:189:28
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\gensync-utils\async.js:68:7
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:113:33
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:287:14)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+
+ERROR in [eslint] 
+src\components\Error.js
+  Line 27:  Parsing error: Only one default export allowed per module. (27:0)
+
+webpack compiled with 2 errors
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+  Line 20:3:  'Root' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+  Line 20:3:  'Root' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Root' is not exported from './pages' (imported as 'Root').
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+ERROR in ./src/App.js 11:32-36
+export 'Root' (imported as 'Root') was not found in './pages' (possible exports: About, AuthWrapper, Cart, Checkout, Error, Home, PrivateRoute, Products, SingleProduct)
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Root' is not exported from './pages' (imported as 'Root').
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+ERROR in ./src/App.js 11:32-36
+export 'Root' (imported as 'Root') was not found in './pages' (possible exports: About, AuthWrapper, Cart, Checkout, Error, Home, PrivateRoute, Products, SingleProduct)
+
+ERROR in ./src/pages/index.js 12:0-30
+Module not found: Error: Can't resolve './RootPage' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\RootPage.js
+  Line 2:10:  'Outlet' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/RootPage.js 6:0-55
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\RootPage.js
+  Line 2:10:  'Outlet' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/RootPage.js 6:0-55
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\RootPage.js
+  Line 2:10:  'Outlet' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+src\pages\RootPage.js
+  Line 2:10:  'Outlet' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 11:3:  'Home' is defined but never used           no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\App.js
+  Line 49:19:  'Product' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 13:3:  'SingleProduct' is defined but never used  no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+ERROR in [eslint] 
+src\App.js
+  Line 49:19:  'Product' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 5:3:   'BrowserRouter' is defined but never used  no-unused-vars
+  Line 6:3:   'Routes' is defined but never used         no-unused-vars
+  Line 7:3:   'Route' is defined but never used          no-unused-vars
+  Line 17:3:  'Checkout' is defined but never used       no-unused-vars
+  Line 18:3:  'PrivateRoute' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\ErrorPage.js
+  Line 4:8:  'Error' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 7:0-33
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 7:0-33
+Module not found: Error: Can't resolve './components' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: '../components' does not contain a default export (imported as 'Error').
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 13:38-43
+export 'default' (imported as 'Error') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: '../components' does not contain a default export (imported as 'Error').
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 13:38-43
+export 'default' (imported as 'Error') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: '../components' does not contain a default export (imported as 'Error').
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 13:38-43
+export 'default' (imported as 'Error') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: '../components' does not contain a default export (imported as 'ErrorComponent').
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 13:38-52
+export 'default' (imported as 'ErrorComponent') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Failed to compile.
+
+Module not found: Error: Can't resolve './Error' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/components/FeaturedProducts.js 9:0-28
+Module not found: Error: Can't resolve './Error' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+
+ERROR in ./src/components/index.js 12:0-28
+Module not found: Error: Can't resolve './Error' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+
+ERROR in ./src/pages/ErrorPage.js 13:38-52
+export 'default' (imported as 'ErrorComponent') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+ERROR in ./src/pages/SingleProductPage.js 47:32-37
+export 'Error' (imported as 'Error') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: '../components' does not contain a default export (imported as 'ErrorComponent').
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 13:38-52
+export 'default' (imported as 'ErrorComponent') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Failed to compile.
+
+Module not found: Error: Can't resolve './Error' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/components/FeaturedProducts.js 9:0-28
+Module not found: Error: Can't resolve './Error' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+
+ERROR in ./src/components/index.js 12:0-28
+Module not found: Error: Can't resolve './Error' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+
+ERROR in ./src/pages/ErrorPage.js 13:38-52
+export 'default' (imported as 'ErrorComponent') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+ERROR in ./src/pages/SingleProductPage.js 47:32-37
+export 'Error' (imported as 'Error') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: '../components' does not contain a default export (imported as 'ErrorComponent').
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js 13:38-52
+export 'default' (imported as 'ErrorComponent') was not found in '../components' (possible exports: AddToCart, CartButtons, CartContent, Contact, Error, FeaturedProducts, Filters, Footer, Hero, Loading, Navbar, PageHero, ProductImages, ProductList, Services, Sidebar, Sort, Stars, StripeCheckout)
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\ErrorPage.js
+Syntax error: Identifier 'useRouteError' has already been declared. (4:9) (4:9)
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages\ErrorPage.js: Identifier 'useRouteError' has already been declared. (4:9)
+
+  2 | import styled from "styled-components";
+  3 | import { Link, useRouteError } from "react-router-dom";
+> 4 | import { useRouteError } from "react-router-dom";
+    |          ^
+  5 | import ErrorComponent from "../components";
+  6 | const ErrorPage = () => {
+  7 |   return (
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowScopeHandler.checkRedeclarationInScope (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1587:19)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1558:12)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1657:11)
+    at FlowParserMixin.declareNameFromIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10767:16)
+    at FlowParserMixin.checkIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10763:12)
+    at FlowParserMixin.checkLVal (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10697:12)
+    at FlowParserMixin.finishImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14571:10)
+    at FlowParserMixin.parseImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5918:17)
+    at FlowParserMixin.parseNamedImportSpecifiers (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14698:36)
+    at FlowParserMixin.parseImport (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14540:39)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13079:27)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseModuleItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12944:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:36)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseProgram (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12853:10)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12843:25)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6172:28)
+    at FlowParserMixin.parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14751:10)
+    at parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14793:38)
+    at parser (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\normalize-file.js:65:38)
+    at normalizeFile.next (<anonymous>)
+    at run (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:261:32)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+
+ERROR in [eslint] 
+src\pages\ErrorPage.js
+  Line 4:9:  Parsing error: Identifier 'useRouteError' has already been declared. (4:9)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\ErrorPage.js
+Syntax error: Identifier 'useRouteError' has already been declared. (4:9) (4:9)
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages\ErrorPage.js: Identifier 'useRouteError' has already been declared. (4:9)
+
+  2 | import styled from "styled-components";
+  3 | import { Link, useRouteError } from "react-router-dom";
+> 4 | import { useRouteError } from "react-router-dom";
+    |          ^
+  5 | import ErrorComponent from "../components";
+  6 | const ErrorPage = () => {
+  7 |   const error = useRouteError();
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowScopeHandler.checkRedeclarationInScope (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1587:19)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1558:12)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1657:11)
+    at FlowParserMixin.declareNameFromIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10767:16)
+    at FlowParserMixin.checkIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10763:12)
+    at FlowParserMixin.checkLVal (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10697:12)
+    at FlowParserMixin.finishImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14571:10)
+    at FlowParserMixin.parseImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5918:17)
+    at FlowParserMixin.parseNamedImportSpecifiers (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14698:36)
+    at FlowParserMixin.parseImport (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14540:39)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13079:27)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseModuleItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12944:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:36)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseProgram (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12853:10)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12843:25)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6172:28)
+    at FlowParserMixin.parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14751:10)
+    at parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14793:38)
+    at parser (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\normalize-file.js:65:38)
+    at normalizeFile.next (<anonymous>)
+    at run (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:261:32)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+
+ERROR in [eslint] 
+src\pages\ErrorPage.js
+  Line 4:9:  Parsing error: Identifier 'useRouteError' has already been declared. (4:9)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\ErrorPage.js
+Syntax error: Identifier 'useRouteError' has already been declared. (4:9) (4:9)
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/pages/ErrorPage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\pages\ErrorPage.js: Identifier 'useRouteError' has already been declared. (4:9)
+
+  2 | import styled from "styled-components";
+  3 | import { Link, useRouteError } from "react-router-dom";
+> 4 | import { useRouteError } from "react-router-dom";
+    |          ^
+  5 | const ErrorPage = () => {
+  6 |   const error = useRouteError();
+  7 |   console.error(error);
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowScopeHandler.checkRedeclarationInScope (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1587:19)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1558:12)
+    at FlowScopeHandler.declareName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:1657:11)
+    at FlowParserMixin.declareNameFromIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10767:16)
+    at FlowParserMixin.checkIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10763:12)
+    at FlowParserMixin.checkLVal (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10697:12)
+    at FlowParserMixin.finishImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14571:10)
+    at FlowParserMixin.parseImportSpecifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5918:17)
+    at FlowParserMixin.parseNamedImportSpecifiers (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14698:36)
+    at FlowParserMixin.parseImport (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14540:39)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13079:27)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseModuleItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12944:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:36)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseProgram (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12853:10)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12843:25)
+    at FlowParserMixin.parseTopLevel (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6172:28)
+    at FlowParserMixin.parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14751:10)
+    at parse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:14793:38)
+    at parser (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\normalize-file.js:65:38)
+    at normalizeFile.next (<anonymous>)
+    at run (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transformation\index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\core\lib\transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:261:32)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\gensync\index.js:223:11)
+
+ERROR in [eslint] 
+src\pages\ErrorPage.js
+  Line 4:9:  Parsing error: Identifier 'useRouteError' has already been declared. (4:9)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 11:3:  'Checkout' is defined but never used      no-unused-vars
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
