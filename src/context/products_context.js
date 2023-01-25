@@ -36,15 +36,26 @@ export const ProductsProvider = ({ children }) => {
     dispatch({ type: SIDEBAR_CLOSE });
   };
 
-  const fetchProducts = async (url) => {
+  // replace async await with a promise
+  // const fetchProducts_old = async (url) => {
+  //   dispatch({ type: GET_PRODUCTS_BEGIN });
+  //   try {
+  //     const response = await axios.get(url);
+  //     const products = response.data;
+  //     dispatch({ type: GET_PRODUCTS_SUCCESS, payload: products });
+  //   } catch (error) {
+  //     dispatch({ type: GET_PRODUCTS_ERROR });
+  //   }
+  // };
+
+  const fetchProducts = (url) => {
     dispatch({ type: GET_PRODUCTS_BEGIN });
-    try {
-      const response = await axios.get(url);
-      const products = response.data;
-      dispatch({ type: GET_PRODUCTS_SUCCESS, payload: products });
-    } catch (error) {
-      dispatch({ type: GET_PRODUCTS_ERROR });
-    }
+    axios
+      .get(url)
+      .then((response) => {
+        dispatch({ type: GET_PRODUCTS_SUCCESS, payload: response.data });
+      })
+      .catch(dispatch({ type: GET_PRODUCTS_ERROR }));
   };
 
   const fetchSingleProduct = async (url) => {
