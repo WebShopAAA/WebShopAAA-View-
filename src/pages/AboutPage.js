@@ -1,8 +1,8 @@
-import React from 'react'
-import styled from 'styled-components'
-import { PageHero } from '../components'
-import aboutImg from '../assets/hero-bcg.jpeg'
-import { motion } from 'framer-motion'
+import React from "react";
+import styled from "styled-components";
+import { PageHero } from "../components";
+import aboutImg from "../assets/hero-bcg.jpeg";
+import { motion } from "framer-motion";
 
 const heroVariants = {
   hidden: {
@@ -13,7 +13,7 @@ const heroVariants = {
     opacity: 0,
     y: -20,
   },
-}
+};
 const AboutPage = () => {
   return (
     <main>
@@ -23,7 +23,7 @@ const AboutPage = () => {
           variants={heroVariants}
           animate="hidden"
           initial="visible"
-          transition={{ type: 'tween', duration: 1.5 }}
+          transition={{ type: "tween", duration: 1.5 }}
           src={aboutImg}
           alt="nice desk"
         />
@@ -31,7 +31,7 @@ const AboutPage = () => {
           variants={heroVariants}
           animate="hidden"
           initial="visible"
-          transition={{ type: 'tween', duration: 1 }}
+          transition={{ type: "tween", duration: 1 }}
         >
           <div className="title">
             <h2>our story</h2>
@@ -51,8 +51,8 @@ const AboutPage = () => {
         </motion.article>
       </Wrapper>
     </main>
-  )
-}
+  );
+};
 
 const Wrapper = styled.section`
   display: grid;
@@ -80,5 +80,5 @@ const Wrapper = styled.section`
   @media (min-width: 992px) {
     grid-template-columns: 1fr 1fr;
   }
-`
-export default AboutPage
+`;
+export default AboutPage;

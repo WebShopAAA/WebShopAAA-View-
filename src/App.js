@@ -40,6 +40,10 @@ const router = createBrowserRouter([
         path: "/products/:id",
         element: <SingleProduct />,
       },
+      {
+        path: "/checkout",
+        element: <Checkout />,
+      },
     ],
   },
 ]);
@@ -51,28 +55,5 @@ function App() {
     </AuthWrapper>
   );
 }
-
-// function App() {
-//   return (
-//     <AuthWrapper>
-//       <BrowserRouter>
-//         <Navbar />
-//         <Sidebar />
-//         <Routes>
-//           <Route path="/" element={<Home />} />
-//           <Route path="/about" element={<About />} />
-//           <Route path="/cart" element={<Cart />} />
-//           <Route path="/products" element={<Products />} />
-//           <Route path="/products/:id" element={<SingleProduct />} />
-//           {/*
-//           <PrivateRoute path="/checkout" element={<Checkout />} />
-//           */}
-//           <Route path="/" element={<Error />} />
-//         </Routes>
-//         <Footer />
-//       </BrowserRouter>
-//     </AuthWrapper>
-//   );
-// }
 
 export default App;
