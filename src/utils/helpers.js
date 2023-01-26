@@ -2,7 +2,8 @@ export const formatPrice = (number) => {
   return new Intl.NumberFormat("sv-SW", {
     style: "currency",
     currency: "SEK",
-  }).format(number / 100);
+    maximumFractionDigits: 0,
+  }).format(number);
 };
 
 export const getUniqueValues = (data, type) => {

@@ -49,12 +49,12 @@ const cart_reducer = (state, action) => {
   }
   if (action.type === BUY_CART) {
     const quantities = state.cart.map((item) => ({
-      id: genId(0, 2),
+      id: genId(1, 3),
       quantity: item.amount.toString(),
     }));
     const order = { id: uuidv4(), total: state.total_amount, data: quantities };
-    const res = axios.post("https://localhost:7125/api/order", order);
-    console.log(res);
+    console.log(order);
+      axios.post("https://localhost:7125/api/order", order);
     return { ...state, cart: [] };
   }
   if (action.type === TOGGLE_CART_ITEM_AMOUNT) {
