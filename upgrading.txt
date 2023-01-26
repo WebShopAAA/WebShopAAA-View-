@@ -4563,3 +4563,1491 @@ src\pages\SingleProductPage.js
   Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
 
 webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\context\products_context.js
+  Line 55:63:  'response' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\context\products_context.js
+  Line 39:9:  'fetchProducts_old' is assigned a value but never used  no-unused-vars
+
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\context\products_context.js
+  Line 55:63:  'response' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\context\products_context.js
+Syntax error: Unexpected token, expected "," (56:2) (56:2)
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in ./src/context/products_context.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\context\products_context.js: Unexpected token, expected "," (56:2)
+
+  54 |             .then(dispatch({ type: GET_PRODUCTS_SUCCESS, payload: response.data })).catch(dispatch({ type: GET_PRODUCTS_ERROR })
+  55 |
+> 56 |   };
+     |   ^
+  57 |
+  58 |   const fetchSingleProduct = async (url) => {
+  59 |     dispatch({ type: GET_SINGLE_PRODUCT_BEGIN });
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.expect (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3758:28)
+    at FlowParserMixin.parseCallExpressionArguments (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11364:14)
+    at FlowParserMixin.parseCoverCallAndAsyncArrowHead (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11290:29)
+    at FlowParserMixin.parseSubscript (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11221:19)
+    at FlowParserMixin.parseSubscript (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6137:18)
+    at FlowParserMixin.parseSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11195:19)
+    at FlowParserMixin.parseSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6103:18)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11186:17)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10856:23)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13107:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12298:24)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:70
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5466:16)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:19)
+    at FlowParserMixin.parseArrowExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12271:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11840:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+
+ERROR in [eslint] 
+src\context\products_context.js
+  Line 56:2:  Parsing error: Unexpected token, expected "," (56:2)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\context\products_context.js
+Syntax error: Unexpected token, expected "," (57:2) (57:2)
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in ./src/context/products_context.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\context\products_context.js: Unexpected token, expected "," (57:2)
+
+  55 |
+  56 |
+> 57 |   const fetchSingleProduct = async (url) => {
+     |   ^
+  58 |     dispatch({ type: GET_SINGLE_PRODUCT_BEGIN });
+  59 |     try {
+  60 |       const response = await axios.get(url);
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.expect (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3758:28)
+    at FlowParserMixin.parseCallExpressionArguments (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11364:14)
+    at FlowParserMixin.parseCoverCallAndAsyncArrowHead (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11290:29)
+    at FlowParserMixin.parseSubscript (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11221:19)
+    at FlowParserMixin.parseSubscript (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6137:18)
+    at FlowParserMixin.parseSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11195:19)
+    at FlowParserMixin.parseSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6103:18)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11186:17)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10856:23)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13107:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12298:24)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:70
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5466:16)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:19)
+    at FlowParserMixin.parseArrowExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12271:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11840:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+
+ERROR in [eslint] 
+src\context\products_context.js
+  Line 57:2:  Parsing error: Unexpected token, expected "," (57:2)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\context\products_context.js
+  Line 54:61:  'response' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\context\products_context.js
+  Line 39:9:  'fetchProducts_old' is assigned a value but never used  no-unused-vars
+
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\context\products_context.js
+  Line 54:61:  'response' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\context\products_context.js
+  Line 39:9:  'fetchProducts_old' is assigned a value but never used  no-unused-vars
+
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\context\products_context.js
+  Line 39:9:  'fetchProducts_old' is assigned a value but never used  no-unused-vars
+
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\context\products_context.js
+  Line 39:9:  'fetchProducts_old' is assigned a value but never used  no-unused-vars
+
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\context\products_context.js
+  Line 39:9:  'fetchProducts_old' is assigned a value but never used  no-unused-vars
+
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\CheckoutPage.js
+  Line 40:1:  Block is redundant  no-lone-blocks
+
+src\pages\SingleProductPage.js
+  Line 2:21:  'useNavigation' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Welcome to the Emacs shell
+
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:15288) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:15288) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view store in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\reducers\cart_reducer.js
+  Line 56:17:  'res' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\reducers\cart_reducer.js
+  Line 56:17:  'res' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:8696) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:8696) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view store in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\reducers\cart_reducer.js
+Syntax error: Unexpected reserved word 'await'. (55:16) (55:16)
+ERROR in ./src/reducers/cart_reducer.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\reducers\cart_reducer.js: Unexpected reserved word 'await'. (55:16)
+
+  53 |     }));
+  54 |     const order = { id: uuidv4(), total: state.total_amount, data: quantities };
+> 55 |     const res = await axios.post("https://httpbin.org/post", order);
+     |                 ^
+  56 |         console.log(res);
+  57 |     return { ...state, cart: [] };
+  58 |   }
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.checkReservedWord (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12475:12)
+    at FlowParserMixin.parseIdentifierName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12423:12)
+    at FlowParserMixin.parseIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12398:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11553:27)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+    at FlowParserMixin.parseVar (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13650:91)
+    at FlowParserMixin.parseVarStatement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13469:10)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13050:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13057:21)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementOrFunctionDeclaration (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12951:17)
+    at FlowParserMixin.parseIfStatement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13348:28)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13001:21)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12298:24)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:70
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5466:16)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:19)
+    at FlowParserMixin.parseArrowExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12271:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11840:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+
+ERROR in [eslint] 
+src\reducers\cart_reducer.js
+  Line 55:16:  Parsing error: Unexpected reserved word 'await'. (55:16)
+
+webpack compiled with 2 errors
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:12424) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:12424) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+[eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+^C^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:8424) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:8424) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:  'axios' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 55:11:  'res' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 55:11:  'res' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\reducers\cart_reducer.js
+Syntax error: Unexpected reserved word 'await'. (55:16) (55:16)
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/reducers/cart_reducer.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\reducers\cart_reducer.js: Unexpected reserved word 'await'. (55:16)
+
+  53 |     }));
+  54 |     const order = { id: uuidv4(), total: state.total_amount, data: quantities };
+> 55 |     const res = await axios.post("/localhost:3000/post", order);
+     |                 ^
+  56 |     console.log(res);
+  57 |     return { ...state, cart: [] };
+  58 |   }
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.checkReservedWord (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12475:12)
+    at FlowParserMixin.parseIdentifierName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12423:12)
+    at FlowParserMixin.parseIdentifier (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12398:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11553:27)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+    at FlowParserMixin.parseVar (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13650:91)
+    at FlowParserMixin.parseVarStatement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13469:10)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13050:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13057:21)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementOrFunctionDeclaration (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12951:17)
+    at FlowParserMixin.parseIfStatement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13348:28)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13001:21)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12298:24)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:70
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5466:16)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:19)
+    at FlowParserMixin.parseArrowExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12271:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11840:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+
+ERROR in [eslint] 
+src\reducers\cart_reducer.js
+  Line 55:16:  Parsing error: Unexpected reserved word 'await'. (55:16)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\reducers\cart_reducer.js
+  Line 56:17:  'res' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\reducers\cart_reducer.js
+  Line 56:17:  'res' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 9:8:    'axios' is defined but never used           no-unused-vars
+  Line 54:11:  'order' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\utils\helpers.js
+  Line 19:3:   'id' is not defined  no-undef
+  Line 20:10:  'id' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in [eslint] 
+src\utils\helpers.js
+  Line 19:3:   'id' is not defined  no-undef
+  Line 20:10:  'id' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\reducers\cart_reducer.js
+Syntax error: Unexpected token, expected "," (52:17) (52:17)
+
+src\utils\helpers.js
+  Line 19:3:   'id' is not defined  no-undef
+  Line 20:10:  'id' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+ERROR in ./src/reducers/cart_reducer.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\reducers\cart_reducer.js: Unexpected token, expected "," (52:17)
+
+  50 |   if (action.type === BUY_CART) {
+  51 |     const quantities = state.cart.map((item) => ({
+> 52 |       id: genId();
+     |                  ^
+  53 |       quantity: item.amount.toString(),
+  54 |     }));
+  55 |     const order = { id: uuidv4(), total: state.total_amount, data: quantities };
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.expect (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3758:28)
+    at FlowParserMixin.parseObjectLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11993:14)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11475:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12651:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11828:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12290:24)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:70
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5466:16)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:19)
+    at FlowParserMixin.parseArrowExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12271:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11840:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12651:12)
+
+ERROR in [eslint] 
+src\reducers\cart_reducer.js
+  Line 52:17:  Parsing error: Unexpected token, expected "," (52:17)
+
+src\utils\helpers.js
+  Line 19:3:   'id' is not defined  no-undef
+  Line 20:10:  'id' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\utils\helpers.js
+  Line 19:3:   'id' is not defined  no-undef
+  Line 20:10:  'id' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+ERROR in [eslint] 
+src\utils\helpers.js
+  Line 19:3:   'id' is not defined  no-undef
+  Line 20:10:  'id' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
