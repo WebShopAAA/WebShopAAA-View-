@@ -1,6 +1,9 @@
 import axios from "axios";
 import React, { useContext, useEffect, useReducer } from "react";
+
+//import products_reducer from "../reducers/products_reducer";
 import reducer from "../reducers/products_reducer";
+
 import { products_url as url } from "../utils/constants";
 import {
   SIDEBAR_OPEN,
@@ -37,7 +40,7 @@ export const ProductsProvider = ({ children }) => {
   };
 
   // replace async await with a promise
-  // const fetchProducts_old = async (url) => {
+  // const fetchProducts = async (url) => {
   //   dispatch({ type: GET_PRODUCTS_BEGIN });
   //   try {
   //     const response = await axios.get(url);

@@ -1,10 +1,10 @@
-#
+
 # Read All products
-#
 GET https://localhost:7125/api/Product
 User-Agent: Emacs Restclient
 Content-Type: application/json
 
+# old request result
 [
   {
     "id": 1,
@@ -43,6 +43,7 @@ Content-Type: application/json
     "image": ""
   }
 ]
+
 // GET https://localhost:7125/api/Product
 // HTTP/1.1 200 OK
 // Content-Type: application/json; charset=utf-8
@@ -50,10 +51,80 @@ Content-Type: application/json
 // Server: Kestrel
 // Transfer-Encoding: chunked
 // Request duration: 0.048782s
+# new request result
+[
+  {
+    "id": 1,
+    "name": "cat1",
+    "description": "En cat bara",
+    "colors": "#ff0000",
+    "category": "",
+    "shipping": true,
+    "price": 100,
+    "company": "1212",
+    "image": "https://v5.airtableusercontent.com/v1/14/14/1674748800000/sOAuJatGKbO6cT85bmPMXA/gffIeAOC6pt1d5IlaONz-zHCH92AflGWQkEfskC8Q_JEhL08fPFlWR-3RaPJwx_M1I1U_06f9tsnmhtRKVkYew/Dok15JIGpy4ucuAuwpXiUBVugy4U2q9EXE2u-fOidvw"
+  },
+  {
+    "id": 2,
+    "name": "cat2",
+    "description": "En cat bara",
+    "colors": "#00ff00",
+    "category": "",
+    "shipping": true,
+    "price": 85955,
+    "company": "1212",
+    "image": "https://v5.airtableusercontent.com/v1/14/14/1674756000000/C-z0UE65Ss_4Wp0DCiNA-w/OnuSwhDI3uManPOVZkGswJIjFM1THJOuFHEuFO4yZb-9zDJkriT9DQ1Ai3hX9tdkEFPKr3AFpDDYJtG234Dyjw/fwStcE9z6ul_vIaxOEGaiR9tlljuyJwrrDxHZcDhRA4"
+  },
+  {
+    "id": 3,
+    "name": "cat3",
+    "description": "En cat bara",
+    "colors": "#0000ff",
+    "category": "",
+    "shipping": true,
+    "price": 10000000,
+    "company": "1212",
+    "image": "https://v5.airtableusercontent.com/v1/14/14/1674756000000/hNOc_Xo0nSC0yREn8Gqomg/H2_p5z16LyZTN91Glb0IxsnmMxJmsP8PzJ88CSSz7Xb0rMSXaYRoNL9bdD6mJkWP3-GFqllEp_V_EbNdjtsOXA/LsaLMxR1Ut-zkYhl8caQIBOj5GPGicSPE97FIyNVYbI"
+  }
+]
+// GET https://localhost:7125/api/Product
+// HTTP/1.1 200 OK
+// Content-Type: application/json; charset=utf-8
+// Date: Fri, 27 Jan 2023 08:09:22 GMT
+// Server: Kestrel
+// Transfer-Encoding: chunked
+// Request duration: 0.077762s
+
+# Read One Product
+GET https://localhost:7125/api/Product/1
+User-Agent: Emacs Restclient
+Content-Type: application/json
+{
+  "id": 1,
+  "name": "cat1",
+  "description": "En cat bara",
+  "colors": "#ff0000",
+  "category": "animals",
+  "shipping": true,
+  "price": 100,
+  "company": "company 1",
+  "image": "https://v5.airtableusercontent.com/v1/14/14/1674748800000/sOAuJatGKbO6cT85bmPMXA/gffIeAOC6pt1d5IlaONz-zHCH92AflGWQkEfskC8Q_JEhL08fPFlWR-3RaPJwx_M1I1U_06f9tsnmhtRKVkYew/Dok15JIGpy4ucuAuwpXiUBVugy4U2q9EXE2u-fOidvw"
+}
+// GET https://localhost:7125/api/Product/1
+// HTTP/1.1 200 OK
+// Content-Type: application/json; charset=utf-8
+// Date: Fri, 27 Jan 2023 09:34:40 GMT
+// Server: Kestrel
+// Transfer-Encoding: chunked
+// Request duration: 0.024702s
 
 
-
-#
+# Read All products original Project
 GET https://course-api.com/react-store-products
+User-Agent: Emacs Restclient
+Content-Type: application/json
+
+# Read One Product
+GET https://course-api.com/react-store-single-product?id=recQ0fMd8T0Vk211E
 User-Agent: Emacs Restclient
 Content-Type: application/json

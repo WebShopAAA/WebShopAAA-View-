@@ -1,12 +1,13 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 
-const ProductImages = ({ images = [{ url: '' }] }) => {
-  const [main, setMain] = useState(images[0])
+//const ProductImages = ({ images = [{ url: '' }] }) => {
+const ProductImages = ({image}) => {
+    //const [main, setMain] = useState(images[0])
   return (
     <Wrapper>
-      <img src={main.url} className="main" alt="main" />
-      <div className="gallery">
+	<img src={image} className="main" alt="main" />
+	{/* <div className="gallery">
         {images.map((image, index) => {
           return (
             <img
@@ -18,7 +19,7 @@ const ProductImages = ({ images = [{ url: '' }] }) => {
             />
           )
         })}
-      </div>
+	</div>*/}
     </Wrapper>
   )
 }
