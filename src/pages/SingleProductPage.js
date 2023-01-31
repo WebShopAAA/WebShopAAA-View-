@@ -36,12 +36,12 @@ const SingleProductPage = () => {
     name,
     price,
     description,
-    stock,
+    quantity,
     stars,
     reviews,
     id: sku,
     company,
-    image,
+    images,
   } = product;
   return (
     <Wrapper>
@@ -53,7 +53,7 @@ const SingleProductPage = () => {
         </Link>
 
         <div className="product-center">
-          <ProductImages image={image} />
+          <ProductImages images={images} />
           <section className="content">
             <h2>{name}</h2>
             <Stars stars={stars} reviews={reviews} />
@@ -61,10 +61,10 @@ const SingleProductPage = () => {
             <p className="desc">{description}</p>
             <p className="info">
               <span>Available : </span>
-              {stock > 0 ? "In stock" : "out of stock"}
+              {quantity > 0 ? "In stock" : "out of stock"}
             </p>
             <p className="info">
-              <span>SKU : </span>
+              <span>Serial : </span>
               {sku}
             </p>
             <p className="info">
@@ -72,7 +72,7 @@ const SingleProductPage = () => {
               {company}
             </p>
             <hr />
-            {stock > 0 && <AddToCart product={product} />}
+            {quantity > 0 && <AddToCart product={product} />}
           </section>
         </div>
       </div>

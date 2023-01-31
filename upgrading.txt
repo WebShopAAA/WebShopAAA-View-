@@ -7287,3 +7287,1953 @@ src\pages\SingleProductPage.js
   Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
 
 webpack compiled with 1 warning
+^C^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:20884) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:20884) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view store in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 11:12:  'image' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 1:17:  'useState' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+ERROR in [eslint] 
+src\components\ProductImages.js
+  Line 11:12:  'image' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 11:17:  'image' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 1:17:  'useState' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+ERROR in [eslint] 
+src\components\ProductImages.js
+  Line 11:17:  'image' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 19:30:  'setMain' is not defined  no-undef
+  Line 20:43:  'main' is not defined     no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 1:17:  'useState' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+ERROR in [eslint] 
+src\components\ProductImages.js
+  Line 19:30:  'setMain' is not defined  no-undef
+  Line 20:43:  'main' is not defined     no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 19:30:  'setMain' is not defined  no-undef
+  Line 20:43:  'main' is not defined     no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 1:17:  'useState' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+ERROR in [eslint] 
+src\components\ProductImages.js
+  Line 19:30:  'setMain' is not defined  no-undef
+  Line 20:43:  'main' is not defined     no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 56:33:  'images' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 44:5:  'image' is assigned a value but never used                                                                             no-unused-vars
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+ERROR in [eslint] 
+src\pages\SingleProductPage.js
+  Line 56:33:  'images' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\Product.js
+  Line 12:19:  'images' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+ERROR in [eslint] 
+src\components\Product.js
+  Line 12:19:  'images' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 16:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 14:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 14:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 14:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 14:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 14:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 14:13:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+  Line 11:19:  'genId' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+  Line 11:19:  'genId' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+  Line 11:19:  'genId' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+  Line 11:19:  'genId' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+  Line 11:19:  'genId' is defined but never used   no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\reducers\cart_reducer.js
+  Line 11:10:  Import genId unnecessarily renamed  no-useless-rename
+  Line 11:19:  'genId' is defined but never used   no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'logo' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'logo' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'logo' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'logo' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\ProductImages.js
+Syntax error: Unexpected token (9:2) (9:2)
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/ProductImages.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components\ProductImages.js: Unexpected token (9:2)
+
+   7 |   const [main, setMain] = useState(images[0]);
+   8 |   console.log(p5),
+>  9 |   return (
+     |   ^
+  10 |     <Wrapper>
+  11 |       {/*      <img src={images[0]} className="main" alt="main" />*/}
+  12 |       <img src={images[0]} className="main" alt="main" />
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11579:22)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10861:36)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13107:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12298:24)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:70
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5466:16)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:19)
+    at FlowParserMixin.parseArrowExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12271:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11840:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+    at FlowParserMixin.parseVar (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13650:91)
+    at FlowParserMixin.parseVarStatement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13469:10)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13050:23)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+
+ERROR in [eslint] 
+src\components\ProductImages.js
+  Line 9:2:  Parsing error: Unexpected token (9:2)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 8:15:  eval can be harmful  no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 8:15:  eval can be harmful  no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:   'p5' is defined but never used  no-unused-vars
+  Line 8:15:  eval can be harmful             no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:   'p5' is defined but never used  no-unused-vars
+  Line 8:15:  eval can be harmful             no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:    'p5' is defined but never used  no-unused-vars
+  Line 8:15:   eval can be harmful             no-eval
+  Line 12:17:  eval can be harmful             no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:    'p5' is defined but never used  no-unused-vars
+  Line 8:15:   eval can be harmful             no-eval
+  Line 12:17:  eval can be harmful             no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:    'p5' is defined but never used  no-unused-vars
+  Line 11:17:  eval can be harmful             no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:    'p5' is defined but never used  no-unused-vars
+  Line 11:17:  eval can be harmful             no-eval
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\ProductImages.js
+Syntax error: Unexpected token, expected "}" (11:19) (11:19)
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/ProductImages.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components\ProductImages.js: Unexpected token, expected "}" (11:19)
+
+   9 |     <Wrapper>
+  10 |       {/*      <img src={images[0]} className="main" alt="main" />*/}
+> 11 |       <img src={'/'images[0]} className="main" alt="main" />
+     |                    ^
+  12 |       <div className="gallery">
+  13 |         {images.map((image, index) => {
+  14 |           console.log(image);
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.expect (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3758:28)
+    at FlowParserMixin.jsxParseExpressionContainer (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7095:10)
+    at FlowParserMixin.jsxParseAttributeValue (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7055:21)
+    at FlowParserMixin.jsxParseAttribute (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7112:38)
+    at FlowParserMixin.jsxParseOpeningElementAfterName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7127:28)
+    at FlowParserMixin.jsxParseOpeningElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7122:17)
+    at FlowParserMixin.jsxParseElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7148:33)
+    at FlowParserMixin.jsxParseElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7160:32)
+    at FlowParserMixin.jsxParseElement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7218:17)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7231:19)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5965:39
+    at FlowParserMixin.tryParse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3766:20)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5965:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12651:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11828:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10856:23)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.parseReturnStatement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13364:28)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13003:21)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+
+ERROR in [eslint] 
+src\components\ProductImages.js
+  Line 11:19:  Parsing error: Unexpected token, expected "}" (11:19)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Failed to compile.
+
+Module not found: Error: Can't resolve '../assets/005.jpg' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+WARNING in [eslint] 
+src\components\ProductImages.js
+  Line 3:8:  'p5' is defined but never used  no-unused-vars
+
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/ProductImages.js 7:0-35
+Module not found: Error: Can't resolve '../assets/005.jpg' in 'c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\ProductImages.js
+Syntax error: Unexpected token, expected "," (8:23) (8:23)
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/ProductImages.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components\ProductImages.js: Unexpected token, expected "," (8:23)
+
+   6 |   return (
+   7 |     <Wrapper>
+>  8 |       <img src={{images[0]} className="main" alt="main" />
+     |                        ^
+   9 |       <div className="gallery">
+  10 |         {images.map((image, index) => {
+  11 |           return (
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.unexpected (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3396:16)
+    at FlowParserMixin.expect (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3758:28)
+    at FlowParserMixin.parseObjectLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11993:14)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11475:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10856:23)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12651:12)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.jsxParseExpressionContainer (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7090:31)
+    at FlowParserMixin.jsxParseAttributeValue (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7055:21)
+    at FlowParserMixin.jsxParseAttribute (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7112:38)
+    at FlowParserMixin.jsxParseOpeningElementAfterName (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7127:28)
+    at FlowParserMixin.jsxParseOpeningElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7122:17)
+    at FlowParserMixin.jsxParseElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7148:33)
+    at FlowParserMixin.jsxParseElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7160:32)
+    at FlowParserMixin.jsxParseElement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7218:17)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7231:19)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5965:39
+    at FlowParserMixin.tryParse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3766:20)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5965:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12651:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11828:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+
+ERROR in [eslint] 
+src\components\ProductImages.js
+  Line 8:23:  Parsing error: Unexpected token, expected "," (8:23)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\pages\SingleProductPage.js
+  Line 27:6:  React Hook useEffect has a missing dependency: 'fetchSingleProduct'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+^C^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ 

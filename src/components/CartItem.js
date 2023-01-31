@@ -1,17 +1,18 @@
-import React from 'react'
-import styled from 'styled-components'
-import { formatPrice } from '../utils/helpers'
-import AmountButtons from './AmountButtons'
-import { FaTrash } from 'react-icons/fa'
-import { useCartContext } from '../context/cart_context'
+import React from "react";
+import styled from "styled-components";
+import { formatPrice } from "../utils/helpers";
+import AmountButtons from "./AmountButtons";
+import { FaTrash } from "react-icons/fa";
+import { useCartContext } from "../context/cart_context";
 const CartItem = ({ id, image, name, color, price, amount }) => {
-  const { removeItem, toggleAmount } = useCartContext()
+  const { removeItem, toggleAmount } = useCartContext();
   const increase = () => {
-    toggleAmount(id, 'inc')
-  }
+    toggleAmount(id, "inc");
+  };
   const decrease = () => {
-    toggleAmount(id, 'dec')
-  }
+    toggleAmount(id, "dec");
+  };
+  console.log(image, name);
   return (
     <Wrapper>
       <div className="title">
@@ -35,8 +36,8 @@ const CartItem = ({ id, image, name, color, price, amount }) => {
         <FaTrash />
       </button>
     </Wrapper>
-  )
-}
+  );
+};
 
 const Wrapper = styled.article`
   .subtotal {
@@ -172,6 +173,6 @@ const Wrapper = styled.article`
       }
     }
   }
-`
+`;
 
-export default CartItem
+export default CartItem;

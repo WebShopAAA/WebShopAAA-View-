@@ -5,11 +5,11 @@ import { FaSearch } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 
-const Product = ({ image, name, price, id }) => {
+const Product = ({ images, name, price, id }) => {
   return (
     <Wrapper>
       <motion.div whileHover={{ scale: 1.1 }} className="container">
-        <img src={image} alt={name} />
+        <img src={images[0]} alt={name} />
         <Link to={`/products/${id}`} className="link">
           <FaSearch />
         </Link>

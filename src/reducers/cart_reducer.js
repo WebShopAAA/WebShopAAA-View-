@@ -8,7 +8,6 @@ import {
 } from "../actions";
 import axios from "axios";
 import { v4 as uuidv4 } from "uuid";
-import { genId as genId } from "../utils/helpers";
 
 const cart_reducer = (state, action) => {
   if (action.type === ADD_TO_CART) {
@@ -33,9 +32,9 @@ const cart_reducer = (state, action) => {
         name: product.name,
         color,
         amount,
-        image: product.images[0].url,
+        image: product.images[0],
         price: product.price,
-        max: product.stock,
+        max: product.quantity,
       };
       return { ...state, cart: [...state.cart, newItem] };
     }
@@ -47,16 +46,18 @@ const cart_reducer = (state, action) => {
   if (action.type === CLEAR_CART) {
     return { ...state, cart: [] };
   }
+
   if (action.type === BUY_CART) {
     const quantities = state.cart.map((item) => ({
-      id: genId(1, 3),
+      id: item.id.toString(),
       quantity: item.amount.toString(),
     }));
     const order = { id: uuidv4(), total: state.total_amount, data: quantities };
     console.log(order);
-      axios.post("https://localhost:7125/api/order", order);
+    axios.post("https://localhost:7125/api/order", order);
     return { ...state, cart: [] };
   }
+
   if (action.type === TOGGLE_CART_ITEM_AMOUNT) {
     const { id, value } = action.payload;
     const tempCart = state.cart.map((item) => {

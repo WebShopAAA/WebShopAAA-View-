@@ -14,9 +14,9 @@ export const getUniqueValues = (data, type) => {
   return ["all", ...new Set(unique)];
 };
 
-export const genId = (max, min) => {
-  min = Math.ceil(min);
-  max = Math.floor(max);
-  const id = Math.floor(Math.random() * (max - min + 1)) + min;
-  return id.toString();
-};
+// export const genId = (max, min) => {
+//   min = Math.ceil(min);
+//   max = Math.floor(max);
+//   const id = Math.floor(Math.random() * (max - min + 1)) + min;
+//   return id.toString();
+// };
