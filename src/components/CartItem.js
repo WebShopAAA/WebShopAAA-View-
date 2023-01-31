@@ -12,7 +12,6 @@ const CartItem = ({ id, image, name, color, price, amount }) => {
   const decrease = () => {
     toggleAmount(id, "dec");
   };
-  console.log(image, name);
   return (
     <Wrapper>
       <div className="title">

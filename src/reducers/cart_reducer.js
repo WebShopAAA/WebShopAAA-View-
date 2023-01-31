@@ -28,7 +28,7 @@ const cart_reducer = (state, action) => {
       return { ...state, cart: tempCart };
     } else {
       const newItem = {
-        id: id + color,
+        id: id,
         name: product.name,
         color,
         amount,
@@ -51,9 +51,9 @@ const cart_reducer = (state, action) => {
     const quantities = state.cart.map((item) => ({
       id: item.id.toString(),
       quantity: item.amount.toString(),
+      color: item.color,
     }));
     const order = { id: uuidv4(), total: state.total_amount, data: quantities };
-    console.log(order);
     axios.post("https://localhost:7125/api/order", order);
     return { ...state, cart: [] };
   }

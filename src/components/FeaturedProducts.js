@@ -1,24 +1,26 @@
-import React from 'react'
-import { useProductsContext } from '../context/products_context'
-import { Link } from 'react-router-dom'
-import styled from 'styled-components'
-import Error from './Error'
-import Loading from './Loading'
-import Product from './Product'
-import { motion } from 'framer-motion'
+import React from "react";
+import { useProductsContext } from "../context/products_context";
+import { Link } from "react-router-dom";
+import styled from "styled-components";
+import Error from "./Error";
+import Loading from "./Loading";
+import Product from "./Product";
+import { motion } from "framer-motion";
 
 const FeaturedProducts = () => {
   const {
     products_loading: loading,
     products_error: error,
     featured_products: featured,
-  } = useProductsContext()
-  if (loading) {
-    return <Loading />
-  }
-  if (error) {
-    return <Error />
-  }
+  } = useProductsContext();
+
+  console.log(FeaturedProducts.error);
+  // if (loading) {
+  //   return <Loading />;
+  // }
+  // if (error) {
+  //   return <Error />;
+  // }
   return (
     <Wrapper className="section">
       <div className="title">
@@ -26,18 +28,18 @@ const FeaturedProducts = () => {
         <div className="underline"></div>
       </div>
       <motion.div
-        transition={{ delay: 1, type: 'spring', stiffness: 50, duration: 2 }}
-        initial={{ x: '100vw' }}
+        transition={{ delay: 1, type: "spring", stiffness: 50, duration: 2 }}
+        initial={{ x: "100vw" }}
         animate={{ x: 0 }}
         className="section-center featured"
       >
         {featured.slice(0, 3).map((product) => {
-          return <Product key={product.id} {...product} />
+          return <Product key={product.id} {...product} />;
         })}
       </motion.div>
       <motion.div
-        transition={{ delay: 1.5, type: 'spring', stiffness: 50, duration: 2 }}
-        initial={{ x: '-100vw' }}
+        transition={{ delay: 1.5, type: "spring", stiffness: 50, duration: 2 }}
+        initial={{ x: "-100vw" }}
         animate={{ x: 0 }}
       >
         <Link to="/products" className="btn">
@@ -45,8 +47,8 @@ const FeaturedProducts = () => {
         </Link>
       </motion.div>
     </Wrapper>
-  )
-}
+  );
+};
 
 const Wrapper = styled.section`
   background: var(--clr-grey-10);
@@ -69,6 +71,6 @@ const Wrapper = styled.section`
       grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
     }
   }
-`
+`;
 
-export default FeaturedProducts
+export default FeaturedProducts;

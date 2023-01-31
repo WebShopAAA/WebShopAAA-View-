@@ -9236,4 +9236,1024 @@ src\pages\SingleProductPage.js
 
 webpack compiled with 1 warning
 ^C^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:17216) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:17216) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view store in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+^C^Cinterrupt
+c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ npm start
+
+> store@0.1.0 start
+> react-scripts start
+
+(node:8624) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:8624) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view store in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\HomePage.js
+  Line 2:10:  'FeaturedProducts' is defined but never used  no-unused-vars
+  Line 2:34:  'Services' is defined but never used          no-unused-vars
+  Line 2:44:  'Contact' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\HomePage.js
+  Line 2:10:  'FeaturedProducts' is defined but never used  no-unused-vars
+  Line 2:34:  'Services' is defined but never used          no-unused-vars
+  Line 2:44:  'Contact' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\HomePage.js
+  Line 2:10:  'FeaturedProducts' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\HomePage.js
+  Line 2:10:  'FeaturedProducts' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\HomePage.js
+  Line 2:10:  'FeaturedProducts' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\pages\HomePage.js
+  Line 2:10:  'FeaturedProducts' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 7:8:    'Product' is defined but never used            no-unused-vars
+  Line 14:24:  'featured' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 7:8:    'Product' is defined but never used            no-unused-vars
+  Line 14:24:  'featured' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 7:8:    'Product' is defined but never used            no-unused-vars
+  Line 14:24:  'featured' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 7:8:    'Product' is defined but never used            no-unused-vars
+  Line 14:24:  'featured' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 2:10:  'useProductsContext' is defined but never used  no-unused-vars
+  Line 5:8:   'Error' is defined but never used               no-unused-vars
+  Line 6:8:   'Loading' is defined but never used             no-unused-vars
+  Line 7:8:   'Product' is defined but never used             no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 2:10:  'useProductsContext' is defined but never used  no-unused-vars
+  Line 5:8:   'Error' is defined but never used               no-unused-vars
+  Line 6:8:   'Loading' is defined but never used             no-unused-vars
+  Line 7:8:   'Product' is defined but never used             no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\FeaturedProducts.js
+  Line 35:10:  'featured' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 2:10:  'useProductsContext' is defined but never used  no-unused-vars
+  Line 5:8:   'Error' is defined but never used               no-unused-vars
+  Line 6:8:   'Loading' is defined but never used             no-unused-vars
+
+ERROR in [eslint] 
+src\components\FeaturedProducts.js
+  Line 35:10:  'featured' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\Footer.js
+Syntax error: Expected corresponding JSX closing tag for <br>. (13:4) (13:4)
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+ERROR in ./src/components/Footer.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\src\components\Footer.js: Expected corresponding JSX closing tag for <br>. (13:4)
+
+  11 |       <br>
+  12 |       <h5>Anders Ali Ammar</h5>
+> 13 |     </Wrapper>
+     |     ^
+  14 |   );
+  15 | };
+  16 |
+    at instantiate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:67:32)
+    at constructor (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:364:12)
+    at FlowParserMixin.raise (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3363:19)
+    at FlowParserMixin.jsxParseElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7192:16)
+    at FlowParserMixin.jsxParseElementAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7160:32)
+    at FlowParserMixin.jsxParseElement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7218:17)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7231:19)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5965:39
+    at FlowParserMixin.tryParse (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:3766:20)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5965:18)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12651:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10874:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11828:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6077:18)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11457:23)
+    at FlowParserMixin.parseExprAtom (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:7236:20)
+    at FlowParserMixin.parseExprSubscripts (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11182:23)
+    at FlowParserMixin.parseUpdate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11164:21)
+    at FlowParserMixin.parseMaybeUnary (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11138:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10967:61)
+    at FlowParserMixin.parseExprOps (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10973:23)
+    at FlowParserMixin.parseMaybeConditional (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10948:23)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10906:21)
+    at FlowParserMixin.parseMaybeAssign (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:6028:18)
+    at FlowParserMixin.parseExpressionBase (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10856:23)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:39
+    at FlowParserMixin.allowInAnd (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12646:16)
+    at FlowParserMixin.parseExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:10851:17)
+    at FlowParserMixin.parseReturnStatement (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13364:28)
+    at FlowParserMixin.parseStatementContent (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13003:21)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12963:17)
+    at FlowParserMixin.parseStatementLike (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5307:24)
+    at FlowParserMixin.parseStatementListItem (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12948:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13569:61)
+    at FlowParserMixin.parseBlockBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13561:10)
+    at FlowParserMixin.parseBlock (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:13549:10)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12298:24)
+    at c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:70
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5466:16)
+    at FlowParserMixin.parseFunctionBody (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:5280:19)
+    at FlowParserMixin.parseArrowExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:12271:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (c:\Users\Lexicon\Desktop\Repos\WebShopAAA-View-\node_modules\@babel\parser\lib\index.js:11840:12)
+
+ERROR in [eslint] 
+src\components\Footer.js
+  Line 13:4:  Parsing error: Expected corresponding JSX closing tag for <br>. (13:4)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\App.js
+  Line 12:3:  'PrivateRoute' is defined but never used  no-unused-vars
+
+src\components\FeaturedProducts.js
+  Line 5:8:    'Error' is defined but never used             no-unused-vars
+  Line 6:8:    'Loading' is defined but never used           no-unused-vars
+  Line 12:23:  'loading' is assigned a value but never used  no-unused-vars
+  Line 13:21:  'error' is assigned a value but never used    no-unused-vars
+
+webpack compiled with 1 warning
+^C^Cinterrupt
 c:/Users/Lexicon/Desktop/Repos/WebShopAAA-View- $ 

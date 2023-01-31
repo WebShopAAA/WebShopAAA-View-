@@ -1,4 +1,4 @@
-
+# Our React Frontend
 # Read All products
 GET https://localhost:7125/api/Product
 User-Agent: Emacs Restclient
@@ -119,6 +119,37 @@ Content-Type: application/json
 // Request duration: 0.024702s
 
 
+# Post Order to backend
+POST https://localhost:7125/api/order
+Content-Type: application/json
+
+{
+   "id":"292b264a-8be7-4ab3-90ba-aa3ccdb18745",
+   "total":115195,
+   "data":[
+      {
+         "id":"5",
+         "quantity":"2"
+      },
+      {
+         "id":"18",
+         "quantity":"3"
+      },
+      {
+         "id":"4",
+         "quantity":"3"
+      },
+      {
+         "id":"10",
+         "quantity":"1"
+      }
+   ]
+}
+
+
+
+# ------------------------------------------------------------------------------
+# React Web Template
 # Read All products original Project
 GET https://course-api.com/react-store-products
 User-Agent: Emacs Restclient

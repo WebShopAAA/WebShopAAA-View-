@@ -3,7 +3,7 @@ import { FeaturedProducts, Hero, Services, Contact } from "../components";
 
 const HomePage = () => {
   return (
-      <main>
+    <main>
       <Hero />
       <FeaturedProducts />
       <Services />
