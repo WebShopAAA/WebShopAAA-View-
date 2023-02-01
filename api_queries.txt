@@ -146,6 +146,28 @@ Content-Type: application/json
    ]
 }
 
+# Post order with color
+
+POST https://localhost:7125/api/order
+Content-Type: application/json
+
+
+{
+   "id":"b6c0ce27-7e89-43ac-95aa-674da012c66a",
+   "total":710,
+   "data":[
+      {
+         "id":"5",
+         "quantity":"1",
+         "Color":"#000"
+      },
+      {
+         "id":"14",
+         "quantity":"1",
+         "Color":"#00ff00"
+      }
+   ]
+}
 
 
 # ------------------------------------------------------------------------------
